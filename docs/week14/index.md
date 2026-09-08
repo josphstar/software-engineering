@@ -9,7 +9,7 @@ title : Woche 14
 
 # Slides
 
-* [Slides](https://adam.unibas.ch/go/file/2169031/download)
+* [Slides](https://adam.unibas.ch/go/fold/2293842) (Auf Adam)
 
 # Übungen
 

@@ -24,7 +24,7 @@ Die Studierenden
 ## Slides und weitere Literatur
 
 * Einführung in Software Engineering
-    * Slides (Auf Adam): [pdf](https://adam.unibas.ch/go/file/2090652/download)
+    * [Slides](https://adam.unibas.ch/go/fold/2293842) (Auf Adam)
 
 
 ## Übungsstunde

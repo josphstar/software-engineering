@@ -31,7 +31,7 @@ Beginnen Sie mit der Erstellung eines Design Dokuments. Folgend Sie dabei den fo
 ## Vorlesungsslides
 
 * SOLID-Prinzipien und Design Patterns
-    * Slides (Auf Adam): [pdf](https://adam.unibas.ch/go/file/2131466/download)
+    * [Slides](https://adam.unibas.ch/go/fold/2293842) (Auf Adam)
 
 ## Zusätzliche Materialien und Ressourcen
 * Katalog / Beschreibung von Design Patterns: [Design Patterns](https://refactoring.guru/design-patterns/catalog)

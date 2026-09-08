@@ -21,7 +21,7 @@ In der Übungsstunde können Sie an Ihrem Designdokument arbeiten. Zudem werden 
 ## Vorlesungsslides
 
 * SOLID-Prinzipien und Design Patterns
-    * Slides (Auf Adam): [pdf](https://adam.unibas.ch/go/file/2131466/download)
+    * [Slides](https://adam.unibas.ch/go/fold/2293842) (Auf Adam)
 
 
 ## Zusätzliche Materialien und Ressourcen

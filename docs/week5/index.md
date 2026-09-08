@@ -34,7 +34,7 @@ Die Studierenden
 ## Vorlesungsslides
 
 * Modularität und Design
-    * Slides (Auf Adam): [pdf](https://adam.unibas.ch/go/file/2122422/download)
+    * [Slides](https://adam.unibas.ch/go/fold/2293842) (Auf Adam)
 
 
 ## Hausaufgaben

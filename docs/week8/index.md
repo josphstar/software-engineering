@@ -32,7 +32,7 @@ Im praktischen Teil der Veranstaltung werden wir mit Ihnen Ihre Designdokumente 
 
 
 * Verifikation und Testen
-    * Slides (Auf Adam): [pdf](https://adam.unibas.ch/go/file/2136209/download) 
+    * [Slides](https://adam.unibas.ch/go/fold/2293842) (Auf Adam)
 
 
 ## Hausaufgaben

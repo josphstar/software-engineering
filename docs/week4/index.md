@@ -33,7 +33,7 @@ Dokumentieren.
 ## Vorlesungsslides
 
 * Design und Spezifikation mit der UML
-    * Slides (Auf Adam): [pdf](https://adam.unibas.ch/go/file/2118351/download)
+    * [Slides](https://adam.unibas.ch/go/fold/2293842) (Auf Adam)
 
 
 ## Ressourcen zum Thema UML (zum Selbststudium)

@@ -32,7 +32,7 @@ herleiten.
 
 
 * Verifikation und Testen
-    * Slides (Auf Adam): [pdf](https://adam.unibas.ch/go/file/2145846/download) 
+    * [Slides](https://adam.unibas.ch/go/fold/2293842) (Auf Adam)
 
 
 
