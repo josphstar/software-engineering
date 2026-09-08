@@ -35,7 +35,7 @@ Die Studierenden
 
 ## Hausaufgaben
 
-Bitte bearbeiten Sie folgende Aufgaben vor Dienstag, 23. September. 
+Bitte bearbeiten Sie folgende Aufgaben vor Dienstag, 22. September. 
 
 * Richten Sie die Entwicklungsumgebung und JabRef gemäss obiger [Anleitung](../exercises/jabref-setup) ein. 
 * Experimentieren Sie mit JabRef und finden Sie heraus, was Sie mit der Software machen können. 

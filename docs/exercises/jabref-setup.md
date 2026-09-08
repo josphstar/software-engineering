@@ -7,7 +7,7 @@ title : Woche 1
 
 ## Administratives
 
-* Dieses Übungsblatt wird in der Übungsstunde vom 16. September eingeführt und bearbeitet. Falls die Zeit in der Übungsstunde nicht reicht, muss das Setup bis zur Übungsstunde am 23. September fertiggestellt werden.
+* Dieses Übungsblatt wird in der Übungsstunde vom 15. September eingeführt und bearbeitet. Falls die Zeit in der Übungsstunde nicht reicht, muss das Setup bis zur Übungsstunde am 22. September fertiggestellt werden.
 
 * Es ist keine Abgabe erforderlich.
 
@@ -113,7 +113,7 @@ Nachdem wir nun alle Werkzeuge installiert haben, müssen wir noch das JabRef Pr
 ### Forken des Github Repositories
 
 In diesem Kurs arbeiten wir nicht mit dem offiziellen JabRef Code Repository, sondern mit einem privaten Fork. Damit sind ihre Änderungen und unsere Bemerkungen für die Öffentlichkeit nicht zugänglich.
-Damit Sie auf unseren Fork von JabRef zugreifen können, müssen wir Ihnen Zugriff auf dieses Repository geben. Sie können überprüfen ob Sie Zugriff haben indem Sie auf [https://github.com/PatrickSchniderUnibas/jabref](https://github.com/PatrickSchniderUnibas/jabref) gehen.
+Damit Sie auf unseren Fork von JabRef zugreifen können, müssen wir Ihnen Zugriff auf dieses Repository geben. Sie können überprüfen ob Sie Zugriff haben indem Sie auf [https://github.com/PatrickSchniderUnibas/jabref_hs26](https://github.com/PatrickSchniderUnibas/jabref_hs26) gehen.
 Falls Sie bereits Zugriff haben, sollte die Seite etwa wie folgt aussehen:
 ![image](images/github-jabref.png)
 
@@ -126,7 +126,7 @@ Damit unsere Assistenten Ihre Abgaben anschauen können, müssen Sie diesen noch
 ![github-manage-access](images/github-manage-access.png)
 
 Löschen Sie als erstes alle Collaborators, die Sie aktuell im Projekt sehen.
-Klicken Sie dann auf *Add people* und fügen Sie `fabiandudler`, `Giovvvvva` und `josphstar` hinzu.
+Klicken Sie dann auf *Add people* und fügen Sie `istrefUka`, `Giovvvvva` und `josphstar` hinzu.
 ![github-manage-access](images/github-manage-access-invite.png)
 
 Als Rolle im nachfolgenden Dialog wählen Sie *Write*.
