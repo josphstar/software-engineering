@@ -45,11 +45,11 @@ Damit Sie auf die Änderungen vom *upstream* Repository zugreifen können, müss
 Wenn Sie ssh benutzen (also in der vorigen Übung ssh eingerichtet haben) geben 
 Sie dafür folgendes Kommando ein
 ```
-git remote add upstream git@github.com:PatrickSchniderUnibas/jabref.git
+git remote add upstream git@github.com:PatrickSchniderUnibas/jabref_hs26.git
 ```
 Falls Sie ein Access Token verwendet haben, geben Sie stattdessen folgenden Befehl ein:
 ```
-git remote add upstream https://github.com/PatrickSchniderUnibas/jabref.git
+git remote add upstream https://github.com/PatrickSchniderUnibas/jabref_hs26.git
 ```
 
 Verifizieren Sie, dass das Hinzufügen erfolgreich war, mithilfe des Befehls:
@@ -76,13 +76,13 @@ Dieser Befehl kopiert die Commits vom *main* Branch des *upstream* Repositories 
 
 Falls sich nichts geändert hat, sollten Sie folgende Ausgabe sehen:
 ```
-From https://github.com/PatrickSchniderUnibas/jabref
+From https://github.com/PatrickSchniderUnibas/jabref_hs26
  * branch                main     -> FETCH_HEAD
 Already up to date.
 ```
 Falls es neue Commits gegeben hat, könnte die Ausgabe etwa so aussehen.
 ```
-From https://github.com/PatrickSchniderUnibas/jabref
+From https://github.com/PatrickSchniderUnibas/jabref_hs26
  * branch                main       -> FETCH_HEAD
    b14a0835f..fb9665a1d  main       -> origin/main
 Updating b14a0835f..fb9665a1d
@@ -150,7 +150,7 @@ JabRef in der Entwicklungsumgebung (IntelliJ)
 #### Änderung 1:
 
 
-* In der About box ("Menu: Help -> About JabRef") gibt es einen Link mit dem Namen "Engagieren Sie sich" oder "Get Involved", je nachdem ob bei Ihnen JabRef auf Deutsch oder English läuft. 
+* In der About box ("Menu: Help -> About JabRef") gibt es einen Link mit dem Namen "Engagieren Sie sich" oder "Get Involved", je nachdem ob bei Ihnen JabRef auf Deutsch oder Englisch läuft. 
 Ändern Sie den Link so, dass dieser neu nicht auf die JabRef Github Seite, sondern auf ihr privates JabRef Repository zeigt (https://github.com/GITHUB_USERNAME/jabref) zeigt.
 
 *Tipp 1:* Verwenden Sie die Suchfunktionen *Search Everywhere* (```Shift Shift```) oder *Find in Path* (```Ctrl-Shift-F```) um die entsprechenden Stellen im Code zu finden.
