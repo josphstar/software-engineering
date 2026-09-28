@@ -6,7 +6,7 @@ title : Woche 3
 
 ## Administratives
 
-Eine Einführung in Gradle gibt es in der Übungsstunde vom 30. September. 
+Eine Einführung in Gradle gibt es in der Übungsstunde vom 29. September. 
 * Abgabe via Pull Request bis spätestens 5. Oktober, 23:59.
 
 
@@ -172,6 +172,5 @@ Die Abgabe der Übung erfolgt durch push vom Übungs-Branch:
 ```
 git push origin uebung3
 ```
-und entsprechenden Pull Request. Geben Sie hier den Ihnen zugeordneten Reviewer (siehe [diese Liste](https://adam.unibas.ch/go/file/2100921/download)) an. 
-(Details dazu finden sie in [&Uuml;bungsblatt 2](./first-changes)).
+und entsprechenden Pull Request. Geben Sie hier den Ihnen zugeordneten Reviewer an (Details dazu finden sie in [&Uuml;bungsblatt 2](./first-changes); die Reviewerliste ist auch auf ADAM hochgeladen).
 
